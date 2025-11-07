@@ -574,4 +574,9 @@ export const RECOMMENDED_INSTANCES: RecommendedInstance[] = [
     languages: ["pl", "en"],
     topics: [GENERAL],
   },
+    {
+    domain: "balkan.forum",
+    languages: ["en", "de", "hr", "bs", "sl", "sq", "mk", "sr"],
+    topics: [GENERAL],
+  },
 ];
